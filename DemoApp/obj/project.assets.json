@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "SIS.HTTP/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SIS.HTTP.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SIS.HTTP.dll": {}
+        }
+      },
+      "SIS.MvcFramework/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "SIS.HTTP": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SIS.MvcFramework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SIS.MvcFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SIS.HTTP/1.0.0": {
+      "type": "project",
+      "path": "../SIS.HTTP/SIS.HTTP.csproj",
+      "msbuildProject": "../SIS.HTTP/SIS.HTTP.csproj"
+    },
+    "SIS.MvcFramework/1.0.0": {
+      "type": "project",
+      "path": "../SIS.MvcFramework/SIS.MvcFramework.csproj",
+      "msbuildProject": "../SIS.MvcFramework/SIS.MvcFramework.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "SIS.MvcFramework >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\0. C# Projects\\SIS.HTTP\\DemoApp\\DemoApp.csproj",
+      "projectName": "DemoApp",
+      "projectPath": "E:\\0. C# Projects\\SIS.HTTP\\DemoApp\\DemoApp.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\0. C# Projects\\SIS.HTTP\\DemoApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "E:\\0. C# Projects\\SIS.HTTP\\SIS.MvcFramework\\SIS.MvcFramework.csproj": {
+              "projectPath": "E:\\0. C# Projects\\SIS.HTTP\\SIS.MvcFramework\\SIS.MvcFramework.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

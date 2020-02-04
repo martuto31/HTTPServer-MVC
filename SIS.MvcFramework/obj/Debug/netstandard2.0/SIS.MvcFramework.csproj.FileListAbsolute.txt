@@ -1,0 +1,11 @@
+E:\0. C# Projects\SIS.HTTP\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+E:\0. C# Projects\SIS.HTTP\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+E:\0. C# Projects\SIS.HTTP\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+E:\0. C# Projects\SIS.HTTP\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.dll
+E:\0. C# Projects\SIS.HTTP\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+E:\0. C# Projects\SIS.HTTP\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+E:\0. C# Projects\SIS.HTTP\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+E:\0. C# Projects\SIS.HTTP\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+E:\0. C# Projects\SIS.HTTP\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+E:\0. C# Projects\SIS.HTTP\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+E:\0. C# Projects\SIS.HTTP\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb

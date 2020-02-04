@@ -1,0 +1,16 @@
+E:\0. C# Projects\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.exe
+E:\0. C# Projects\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.deps.json
+E:\0. C# Projects\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.runtimeconfig.json
+E:\0. C# Projects\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.runtimeconfig.dev.json
+E:\0. C# Projects\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.dll
+E:\0. C# Projects\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.0\DemoApp.pdb
+E:\0. C# Projects\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.0\SIS.HTTP.dll
+E:\0. C# Projects\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.0\SIS.MvcFramework.dll
+E:\0. C# Projects\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.0\SIS.MvcFramework.pdb
+E:\0. C# Projects\SIS.HTTP\DemoApp\bin\Debug\netcoreapp3.0\SIS.HTTP.pdb
+E:\0. C# Projects\SIS.HTTP\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csprojAssemblyReference.cache
+E:\0. C# Projects\SIS.HTTP\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.AssemblyInfoInputs.cache
+E:\0. C# Projects\SIS.HTTP\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.AssemblyInfo.cs
+E:\0. C# Projects\SIS.HTTP\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.csproj.CopyComplete
+E:\0. C# Projects\SIS.HTTP\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.dll
+E:\0. C# Projects\SIS.HTTP\DemoApp\obj\Debug\netcoreapp3.0\DemoApp.pdb

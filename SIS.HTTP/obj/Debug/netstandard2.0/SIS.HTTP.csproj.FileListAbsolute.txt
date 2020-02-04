@@ -1,0 +1,8 @@
+E:\0. C# Projects\SIS.HTTP\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
+E:\0. C# Projects\SIS.HTTP\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
+E:\0. C# Projects\SIS.HTTP\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+E:\0. C# Projects\SIS.HTTP\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+E:\0. C# Projects\SIS.HTTP\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+E:\0. C# Projects\SIS.HTTP\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+E:\0. C# Projects\SIS.HTTP\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
+E:\0. C# Projects\SIS.HTTP\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb
